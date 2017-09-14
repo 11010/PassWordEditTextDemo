@@ -12,5 +12,5 @@
         android:hint="请输入密码"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
-
+<!--we can also use Text to   show_text   hide_text  show_as_text-->
 </RelativeLayout>
